@@ -1,4 +1,4 @@
-Développer une application C++ orientée objet pour gérer des inscriptions à un
+Une application C++ orientée objet pour gérer des inscriptions à un
 événement. Le système doit permettre :
 L'inscription de participants de différents types (Invite, Employe, VIP)
 La modification du nom d’un participant
